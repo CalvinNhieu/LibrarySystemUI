@@ -1,0 +1,35 @@
+Absalom, Absalom!:William:Faulkner:954320125:Fiction:5.00:4/5:Y
+All Passion Spent:Vita:Sackville-West:110365428:Non-Fiction:5.00:3/5:Y
+A Time to Kill:John:Grisham:542236875:Fiction:5.00:4/5:Y
+Bonjour Tristesse:Francoise:Sagan:969601452:Non-Fiction:5.00:3/5:Y
+Brave New World:Aldous:Huxley:466327501:Fiction:5.00:5/5:Y
+Cabbages and Kings:Orwell:Henry:813450104:Fiction:5.00:4/5:Y
+Consider the Lilies:Iain:Smith:767741206:Encyclopedia:5.00:3/5:Y
+Daffodil Sky:H.E.:Bates:410875886:Non-Fiction:5.00:3/5:Y
+Dance Dance Dance:Haruki:Murakami:698201345:Fiction:5.00:1/5:Y
+Eyeless in Gaze:Aldous:Huxley:100213546:Fantasy:5.00:4/5:Y
+Great Work of Time:John:Crowley:716541009:Fiction:5.00:4/5:Y
+The Green Bay Tree:Louis:Bromfield:102938734:Fiction:5.00:5/5:Y
+How Sleep the Brave:H.E.:Bates:451060038:Non-Fiction:5.00:4/5:Y
+In Dubious Battle:John:Steinbeck:765234019:Encyclopedia:25.00:3/5:Y
+I Will Fear No Evil:Robert:Heinlein:923102930:Non-Fiction:5.00:4/5:Y
+Jesters:Aldous:Huxley:192830042:Fiction:5.00:2/5:Y
+The Little Foxes:Lillian:Hellman:293990239:Fiction:5.00:5/5:Y
+Little Hands Clapping:Dan:Rhodes:620145230:Fiction:5.00:4/5:Y
+Murky Waters:Madeleine:L'Engle:192047723:Fantasy:5.00:4/5:Y
+The Monkey's Raincoat:Robert:Crais:621307045:Fiction:5.00:3/5:Y
+Hi I'm Calvin and this is Calvin Klein:Aser:Eldamaty:416521003:Graphic:5.00:5/5:Y
+A Monstrous Woman:Laurie:King:100392834:Encyclopedia:15.00:1/5:Y
+No Country for Old Men:Cormac:McCarthy:651038746:Graphic:5.00:3/5:Y
+Of Mice and Men:John:Steinbeck:102930934:Fantasy:5.00:5/5:Y
+Paths of Glory:Humphrey:Cobb:615213076:Fiction:5.00:4/5:Y
+Potato Times:Calvin:Nhieu:277684200:Non-Fiction:5.00:4/5:Y
+Precious Bane:Mary:Webb:200148693:Fantasy:5.00:3/5:Y
+Speciman Days:Michael:Cunningham:871003611:Fiction:5.00:4/5:Y
+Those Barren Leaves:Aldous:Huxley:112023138:Fantasy:5.00:2/5:Y
+To Say Nothing of the Dog:Connie:Willis:958300123:Graphic:5.00:4/5:Y
+The Wealth of Nations:Adam:Smith:320040017:Fiction:5.00:4/5:Y
+The Yellow Methheads:H.E.:Bates:127839001:Non-Fiction:5.00:5/5:Y
+Vikram Is Fat As Shit:Calvin:Nhieu:182930098:Horror:100.00:5/5:Y
+Ihsan The Super Gross Pedophile:Calvin:Nhieu:200394817:Horror:49.95:5/5:Y
+Smelly Melly:Sathuja:Sivalogarajah:839540069:Horror:19.95:5/5:Y
